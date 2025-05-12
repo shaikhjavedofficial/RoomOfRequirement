@@ -1,4 +1,3 @@
-// Basic Express server setup with MongoDB connection and dotenv
 require("dotenv").config();
 const express = require("express");
 const mongoose = require("mongoose");
